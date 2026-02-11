@@ -1,6 +1,7 @@
 public class Q1MaxSubArray {
     //array={2,1,3,5,9,3,2};
     //k=3;
+    
     public static void main(String[] args) {
         int[] arr = {2, 1, 3, 5, 9, 3, 2};
         int k = 3;
